@@ -3,7 +3,7 @@
 A CLI client that automates the process of poking and prodding at a binary to find patterns in input behavior
 ## Usage
 ### Example
-`python3 [-l | -r] [PROCESS] -c [CHARLIST]`
+`python3 prod.py [-l | -r] [PROCESS] -c [CHARLIST]`
 ### Arguments
 ```
 -l, --local - takes one argument specifying the path of the local process to prod
